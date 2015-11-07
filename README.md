@@ -1,5 +1,5 @@
 # xkcd287
-The solution to the problem [xkcd.com/287](xkcd.com/287).
+The solution to the problem [xkcd.com/287](http://xkcd.com/287).
 
 Prints out:
 
