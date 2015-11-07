@@ -1,2 +1,2 @@
 # xkcd287
-http://xkcd.com/287/
+The solution to the problem xkcd.com/287.
